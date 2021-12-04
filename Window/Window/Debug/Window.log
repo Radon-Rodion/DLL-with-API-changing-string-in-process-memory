@@ -1,0 +1,5 @@
+﻿  Window.cpp
+F:\Coding\C++\OSiSP_3\Window\Window\Window.cpp(70,6): warning C4101: hDC: неиспользованная локальная переменная
+F:\Coding\C++\OSiSP_3\Window\Window\Window.cpp(207): warning C4715: getInputStrings: значение возвращается не при всех путях выполнения
+F:\Coding\C++\OSiSP_3\Window\Window\Window.cpp(218): warning C4715: getWStrigFromWindow: значение возвращается не при всех путях выполнения
+  Window.vcxproj -> F:\Coding\C++\OSiSP_3\Window\Debug\Window.exe

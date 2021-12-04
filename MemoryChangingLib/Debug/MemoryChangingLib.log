@@ -1,0 +1,6 @@
+﻿  MemChanger.cpp
+F:\Coding\C++\OSiSP_3\MemoryChangingLib\MemChanger.cpp(60,19): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Coding\C++\OSiSP_3\MemoryChangingLib\MemChanger.cpp(85,25): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Coding\C++\OSiSP_3\MemoryChangingLib\MemChanger.cpp(91,15): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Coding\C++\OSiSP_3\MemoryChangingLib\MemChanger.cpp(150,9): warning C4101: x: неиспользованная локальная переменная
+  MemoryChangingLib.vcxproj -> F:\Coding\C++\OSiSP_3\Window\Debug\MemoryChangingLib.dll

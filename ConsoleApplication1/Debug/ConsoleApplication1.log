@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+f:\Coding\C++\OSiSP_3\ConsoleApplication1\ConsoleApplication1.cpp(61,19): warning C4018: <: несоответствие типов со знаком и без знака
+f:\Coding\C++\OSiSP_3\ConsoleApplication1\ConsoleApplication1.cpp(84,25): warning C4018: <: несоответствие типов со знаком и без знака
+f:\Coding\C++\OSiSP_3\ConsoleApplication1\ConsoleApplication1.cpp(90,15): warning C4018: <: несоответствие типов со знаком и без знака
+f:\Coding\C++\OSiSP_3\ConsoleApplication1\ConsoleApplication1.cpp(239,40): warning C4477: "printf": в строке форматирования "%x" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "LPBYTE"
+f:\Coding\C++\OSiSP_3\ConsoleApplication1\ConsoleApplication1.cpp(241,47): warning C4018: <: несоответствие типов со знаком и без знака
+f:\Coding\C++\OSiSP_3\ConsoleApplication1\ConsoleApplication1.cpp(263,51): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication1.vcxproj -> F:\Coding\C++\OSiSP_3\Window\Debug\ConsoleApplication1.exe
