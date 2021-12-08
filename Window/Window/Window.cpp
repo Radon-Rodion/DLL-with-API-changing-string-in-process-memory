@@ -23,7 +23,7 @@ HINSTANCE hInst;                                // текущий экземпл
 WCHAR szTitle[MAX_LOADSTRING];                  // Текст строки заголовка
 WCHAR szWindowClass[MAX_LOADSTRING];            // имя класса главного окна
 
-#define DLL_NAME "G:\\MemoryChangingLib.dll"
+#define DLL_NAME "D:\\MemoryChangingLib.dll"
 
 #define IDM_GO 9275
 #define IDM_INJECT 9276
@@ -86,7 +86,7 @@ LRESULT CALLBACK WindowProc(HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam) 
 						createWindow();
 #endif
 #ifdef DYNAMIC_DLL_IMPORT
-						LoadLibrary(L"G:\\MemoryChangingLib.dll");
+						LoadLibrary(L"D:\\MemoryChangingLib.dll");
 #endif
 						break;
 					}

@@ -8,8 +8,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Window", "Window\Window.vcx
 		{5E25C2BC-6F58-4B93-B6D6-7BD5F6B46CEB} = {5E25C2BC-6F58-4B93-B6D6-7BD5F6B46CEB}
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "..\ConsoleApplication1\ConsoleApplication1.vcxproj", "{C52D94BA-16D6-405A-A4C3-B820D3CAFBCB}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemoryChangingLib", "..\MemoryChangingLib\MemoryChangingLib.vcxproj", "{5E25C2BC-6F58-4B93-B6D6-7BD5F6B46CEB}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ApplicationForTesting", "..\ApplicationForTesting\ApplicationForTesting.vcxproj", "{CFCA0EB0-D3DC-41E0-B691-01D64F7EF51F}"
@@ -30,14 +28,6 @@ Global
 		{9542D9CC-498A-4884-89F1-D72CCECB4E92}.Release|x64.Build.0 = Release|x64
 		{9542D9CC-498A-4884-89F1-D72CCECB4E92}.Release|x86.ActiveCfg = Release|Win32
 		{9542D9CC-498A-4884-89F1-D72CCECB4E92}.Release|x86.Build.0 = Release|Win32
-		{C52D94BA-16D6-405A-A4C3-B820D3CAFBCB}.Debug|x64.ActiveCfg = Debug|x64
-		{C52D94BA-16D6-405A-A4C3-B820D3CAFBCB}.Debug|x64.Build.0 = Debug|x64
-		{C52D94BA-16D6-405A-A4C3-B820D3CAFBCB}.Debug|x86.ActiveCfg = Debug|Win32
-		{C52D94BA-16D6-405A-A4C3-B820D3CAFBCB}.Debug|x86.Build.0 = Debug|Win32
-		{C52D94BA-16D6-405A-A4C3-B820D3CAFBCB}.Release|x64.ActiveCfg = Release|x64
-		{C52D94BA-16D6-405A-A4C3-B820D3CAFBCB}.Release|x64.Build.0 = Release|x64
-		{C52D94BA-16D6-405A-A4C3-B820D3CAFBCB}.Release|x86.ActiveCfg = Release|Win32
-		{C52D94BA-16D6-405A-A4C3-B820D3CAFBCB}.Release|x86.Build.0 = Release|Win32
 		{5E25C2BC-6F58-4B93-B6D6-7BD5F6B46CEB}.Debug|x64.ActiveCfg = Debug|x64
 		{5E25C2BC-6F58-4B93-B6D6-7BD5F6B46CEB}.Debug|x64.Build.0 = Debug|x64
 		{5E25C2BC-6F58-4B93-B6D6-7BD5F6B46CEB}.Debug|x86.ActiveCfg = Debug|Win32
